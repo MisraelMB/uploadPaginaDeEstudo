@@ -1,0 +1,35 @@
+.links{
+    text-decoration: none;
+    color: #ffffff;
+    padding: 10px;
+    padding-top: 17px;
+    padding-bottom: 18px;
+    border-radius: 0px;
+    border: 2px solid #527afd;
+    background: #527afd;
+    
+}
+
+.links:hover{
+    background: #527afd;
+    color: white;
+}
+.links:visited{
+    border-color: #527afd;
+    color: #ffffff;
+}
+
+#px{
+    background-color: #353535;
+    width: 1500px;
+    height: 500px;
+}
+
+#px2{
+    background-color: #353535;
+    width: 1500px;
+    height: 60px;
+}
+.sub{
+    cursor: pointer;
+}
